@@ -46,12 +46,6 @@ A machine learning pipeline that analyses credit card transactions and predicts 
 - The difference between Precision and Recall and why Recall matters more here
 - How Random Forest uses ensemble learning (100 decision trees voting together)
 
----
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshilgandhi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:darshilgandhi20@gmail.com)
-
----
 
 *Currently learning: Machine Learning • Data Science • Python • Financial Analytics*
