@@ -1,0 +1,11 @@
+# Data files
+*.csv
+*.npy
+*.pkl
+
+# Images
+*.png
+
+# Other
+__pycache__/
+*.pyc
