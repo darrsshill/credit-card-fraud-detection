@@ -1,6 +1,6 @@
 # Hi, I'm Darshil Gandhi 👋
 
-I'm a student at the **University of San Francisco** passionate about **Data Science in Financial Services**. I love using machine learning to solve real-world problems in finance — fraud detection, risk modelling, and everything in between.
+I'm a student at the **University of South Florida** passionate about **Data Science in Financial Services**. I love using machine learning to solve real-world problems in finance — fraud detection, risk modelling, and everything in between.
 
 ---
 
